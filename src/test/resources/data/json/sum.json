@@ -1,0 +1,42 @@
+[
+  {
+    "testInput": {
+      "x": 1,"y": 1
+    },
+    "testOutput": {
+      "sum": 2
+    }
+  },
+  {
+    "testInput": {
+      "x": 2,"y": 6
+    },
+    "testOutput": {
+      "sum": 8
+    }
+  },
+  {
+    "testInput": {
+      "x": 20,"y": 42
+    },
+    "testOutput": {
+      "sum": 62
+    }
+  },
+  {
+    "testInput": {
+      "x": 12,"y": 14
+    },
+    "testOutput": {
+      "sum": 26
+    }
+  },
+  {
+    "testInput": {
+      "x": 0,"y": 0
+    },
+    "testOutput": {
+      "sum": 0
+    }
+  }
+]
